@@ -1,0 +1,51 @@
+.first-block{
+    width:300px;
+    margin:20px auto;
+    padding:10px 20px;
+    border:3px solid rgb(222, 145, 4) ;
+} 
+.second-block{
+    width:300px;
+    margin:20px auto;
+    padding: 10px 20px;
+    border:3px solid rgb(222, 145, 4);
+}
+    
+.third-block{
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border:3px solid rgb(222, 145, 4) ;
+}
+    /* link */
+a[href="https://uk.wikipedia.org/wiki/Еріх_Марія_Ремарк"]{
+    margin:80px 50px;
+    padding:5px 10px;
+    border: 3px solid rgb(222, 145, 4);
+    font-size: 20px;
+    color: rgb(187, 1, 1);
+}
+a[href="https://uk.wikipedia.org/wiki/Еріх_Марія_Ремарк#Біографія"]{
+    margin: 80px 50px;
+    padding: 5px 10px;
+    border: 3px solid rgb(222, 145, 4);
+    font-size: 20px;
+    color: rgb(187, 1, 1);
+}
+a[href="https://uk.wikipedia.org/wiki/Еріх_Марія_Ремарк#Успіх_книги_«На_західному_фронті_без_змін»"]{
+    margin:80px 50px;
+    padding:5px 10px;
+    border: 3px solid rgb(222, 145, 4);
+    font-size: 20px;
+    color: rgb(187, 1, 1);
+}
+  /* header */
+h1,h2,h3{
+    color: rgb(239, 182, 12);
+    font-size: 25px;
+}
+p{
+    font-size: medium;
+    color: rgb(144, 107, 59); 
+}
+    
